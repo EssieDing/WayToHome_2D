@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/3.unity
+    guid: 80ca236a8935ae342891d134456b1d99
+  - enabled: 1
+    path: Assets/Scenes/Corridor_1.unity
+    guid: 690ae5a3aebefa24984c5714a7cb7ee3
+  - enabled: 1
+    path: Assets/Scenes/Corridor_2.unity
+    guid: b2a967620d08ce341b140a6f8dd278d2
+  - enabled: 1
+    path: Assets/Scenes/Corridor_3.unity
+    guid: 4145044b4a00cc342a92abd2b5b3dcfa
+  - enabled: 1
+    path: Assets/Scenes/Back.unity
+    guid: 1de17b12ea4790d42bf50c9776c4792a
+  - enabled: 1
+    path: Assets/Scenes/Box.unity
+    guid: 25aecf057f377b94fa48434461ffecfb
+  - enabled: 1
+    path: Assets/Scenes/Bridge.unity
+    guid: eefed7d9e3833cf4fb525ccf827faf64
+  m_configObjects: {}
